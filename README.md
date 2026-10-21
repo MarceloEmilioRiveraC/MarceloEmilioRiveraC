@@ -1,6 +1,6 @@
 # Marcelo Rivera Cueva
 
-**Software Engineer · Full-stack product development**  
+**Full-stack Software Developer · Product Development**  
 Kitchener–Waterloo, Canada · [Portfolio](https://marcelo-rivera-cueva-portfolio.sure-titan-7698.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/marcelorivera-dev/)
 
 I turn product requirements into software that ships—from interfaces and APIs to cloud infrastructure and production delivery. My work today spans multi-tenant SaaS, campaign automation, and product leadership.
