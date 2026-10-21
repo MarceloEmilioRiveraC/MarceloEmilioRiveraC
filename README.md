@@ -1,16 +1,19 @@
-## Hi there 👋
+# Marcelo Rivera Cueva
 
-<!--
-**MarceloEmilioRiveraC/MarceloEmilioRiveraC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software developer · Full-stack web · Mobile · Developer tools**
 
-Here are some ideas to get you started:
+I build practical web and mobile applications, along with tools that make development workflows easier. Based in Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Portfolio & sketchbook](https://marcelo-rivera-cueva-portfolio.sure-titan-7698.chatgpt.site)** · **[LinkedIn](https://www.linkedin.com/in/marcelorivera-dev/)**
+
+## Selected work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**pitwall**](https://github.com/MarceloEmilioRiveraC/pitwall) | A portable Windows control room for coding agents, with an agent sidebar and a live, Git-aware file viewer. | PowerShell |
+| [**INSPIRER**](https://github.com/MarceloEmilioRiveraC/Final_Group5) | A group-built fashion community platform for posts and comments, with moderation and analytics. | React, TypeScript, Node.js, Express, MongoDB |
+
+## Current interests
+
+Full-stack product development, mobile apps with Flutter, machine learning, cybersecurity, and developer tooling.
+
